@@ -1,5 +1,8 @@
 _repo: A-Portrait-of-the-Artist-as-a-Young-Man_4217
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Joyce, James
@@ -27,6 +30,8 @@ description: "A Portrait of the Artist as a Young Man is the first novel of Iris
   \ of literary modernism.\nIn 1998, the Modern Library named the novel third on its\
   \ list of the 100 best English-language novels of the 20th century.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4217#A-Portrait-of-the-Artist-as-a-Young-Man
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
